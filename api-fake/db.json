@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "username": "isabella.m"
+        }
+    ],
+    "products": [
+        {
+            "title": "Bandeja de galletas",
+            "image": "",
+            "price": 1.5,
+            "variants": [
+                {
+                    "title": "Craqueladas de chocolate",
+                    "image": ""
+                },
+                {
+                    "title": "Craqueladas de limón",
+                    "image": ""
+                },
+                {
+                    "title": "Polvorosas",
+                    "image": ""
+                }
+            ]
+        }
+    ]
+}
