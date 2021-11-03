@@ -105,6 +105,11 @@ btnCerrarMenu.addEventListener('click', (e)=> {
       <p>Todos los <span>Departamentos</span></p>
       <i className="fas fa-caret-down" />
     </div>
+
+      <div className="logo">
+        <img src="./assets/logo.svg" width="58px" alt="" />
+      </div>
+
     <div className="enlaces">
       <a href="#">Cuenta</a>
       <a href="#">Promociones</a>
