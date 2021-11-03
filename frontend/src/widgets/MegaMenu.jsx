@@ -114,7 +114,12 @@ btnCerrarMenu.addEventListener('click', (e)=> {
       <a href="#">Cuenta</a>
       <a href="#">Promociones</a>
       <a href="#">Mesa de Regalos</a>
-      <a href="#">Ayuda</a>
+      
+      <Link to="/login">
+        <a href="#">
+          Iniciar sesión
+        </a>
+      </Link>
     </div>
   </div>
   <div className="contenedor contenedor-grid">
